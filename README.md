@@ -16,7 +16,7 @@ The Payment Management System is a Java Spring Boot application designed to faci
 - **Hibernate:** Interaction with the database.
 - **RESTful API:** APIs for managing user payment transactions.
 - **H2 Database (Optional):** Lightweight, in-memory database for development and testing.
-- **Maven or Gradle:** Dependency management and project compilation.
+- **Maven:** Dependency management and project compilation.
 - **Swagger:** API documentation tool for easy exploration and testing.
 
 ## Getting Started
