@@ -24,7 +24,7 @@ The Payment Management System is a Java Spring Boot application designed to faci
 
 1. Clone the project:
     ```bash
-    git clone https://github.com/user/payment-management-system.git
+    git clone https://github.com/user/secure-pay.git
     ```
 2. Navigate to the project directory:
     ```bash
