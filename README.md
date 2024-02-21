@@ -41,6 +41,13 @@ The Payment Management System is a Java Spring Boot application designed to faci
    - Username: admin
    - Password: 123456
 
+## Compatibility and Transformations
+
+- **Java Version:** The project is compatible with Java 3 and above.
+- **SwaggerConfig Incompatibility:** The project is compatible with all components except for Swagger configuration. Special configurations related to Swagger may need to be adjusted.
+- **Transition from javax to Jakarta:** The project should undergo a transformation from javax packages to jakarta packages as a result of the transition in Java EE specifications. These changes, especially in dependencies and import statements, need to be made. It's essential for the project to align with the latest Java EE standards.
+
+
 ## Encryption Methods
 
 The Payment Management System ensures security through the following encryption methods:
