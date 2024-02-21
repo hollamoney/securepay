@@ -10,7 +10,8 @@ The Payment Management System is a Java Spring Boot application designed to faci
 
 ## Technology Stack
 
-- **Java Spring Boot:** Backend application development.
+- **Java:** JAVA 17.
+- **Spring Boot:**  2.7.14 Backend application development .
 - **Spring Data JPA:** Database operations.
 - **Spring Security:** Security features.
 - **Hibernate:** Interaction with the database.
