@@ -45,7 +45,7 @@ public class Customer {
     private String creditCard;
 
     @JsonManagedReference
-    @OneToMany(mappedBy = "customer", cascade = CascadeType.REMOVE,fetch = FetchType.EAGER)
+    @OneToMany(mappedBy = "customer", cascade = CascadeType.REMOVE,fetch = FetchType.LAZY)
     @JsonIgnore
     private List<Payment> payments;
 
